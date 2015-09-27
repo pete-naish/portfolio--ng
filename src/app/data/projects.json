@@ -1,0 +1,16 @@
+[
+    {
+        "project_title": "Cravendale Milk Poster",
+        "project_image": "project--saatchi__milkposter.png",
+        "project_brief": "To create a single-page, backbone-driven app that allows users to create their own cartoon avatar with a custom slogan, and upload it to social media",
+        "my_role": "Developing all HTML, CSS, and JavaScript assets for the project, based on a design created in-house",
+        "browser_support": "Latest browsers spanning mobile, tablet, and desktop, including Internet Explorer 9+",
+        "project_tools": ["html5", "css3", "backbone", "jquery", "sass", "bem", "grunt", "git"],
+        "project_actions": [
+            {
+                "action_text": "View live website",
+                "action_url": "http://www.cravendale.co.uk/milkposter/"
+            }
+        ]
+    }
+]
